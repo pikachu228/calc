@@ -89,6 +89,3 @@ int linelen1 = strlen(str_out);
         str_out[j+1]='='; 
         str_out[j+2]='\0'; 
 }
-
-Press h to open a hovercard with more details.
-
